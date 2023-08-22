@@ -8,6 +8,11 @@ Este projeto foi proposto como o primeiro desafio do curso [DevSuperior] Spring 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/willAtaides/desafioComponentesInjecaoDependencia/blob/main/assets/uml.png)
 
+- Objeto Order: Um pedido deve ser representado por um objeto
+- Serviço OrderService: responsável por operações referentes a pedidos.
+- Serviço ShippingService: responsável por operações referentes a frete.
+
+
 # Tecnologias utilizadas
 ## Back end
 - Java
